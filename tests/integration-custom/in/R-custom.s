@@ -1,0 +1,12 @@
+add s0,x0 x0
+sub s0,x0 x0
+and s0,x0 x0
+or s0,x0 x0
+xor s0,x0 x0
+sll s0,x0 x0
+srl s0,x0 x0
+sra s0,x0 x0
+slt s0,x0 x0
+mul s0,x0 x0
+mulh s0,x0 x0
+mulhu s0,x0 x0
